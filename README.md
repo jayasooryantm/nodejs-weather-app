@@ -6,4 +6,15 @@ A weather app build upon Node.js. You can enter the location name and get the re
 
 ### Demo
 
-Demo website is live in this URL : http://nodejs-weather-app-v1.herokuapp.com/
+#### Demo Website: http://nodejs-weather-app-v1.herokuapp.com/
+![Heroku Live Website](https://github.com/jayasooryantm/nodejs-weather-app/blob/master/img/Heroku-live-weather-app.jpg)
+
+
+### Technologies Used
+
+* Node.js
+* Express.js
+* HTML
+* Javascript
+* CSS
+* Heroku (Deployment)
